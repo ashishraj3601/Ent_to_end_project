@@ -66,7 +66,7 @@ The project includes an **interactive 3-page Power BI dashboard** designed for b
 - Profit distribution across branches  
 - Monthly revenue & profit trends  
 
-![Consolidated Business Summary](images/dashboard_page1.png)
+![Consolidated Business Summary](Dashboard1.png)
 
 ---
 
@@ -76,7 +76,7 @@ The project includes an **interactive 3-page Power BI dashboard** designed for b
 - Revenue and profit by payment method  
 - Customer ratings by category & payment method  
 
-![Customer & Time-Based Insights](images/dashboard_page2.png)
+![Customer & Time-Based Insights](Dashboard2.png)
 
 ---
 
@@ -86,7 +86,7 @@ The project includes an **interactive 3-page Power BI dashboard** designed for b
 - Category-wise revenue & profit breakdown  
 - Payment method analysis  
 
-![Executive Summary](images/dashboard_page3.png)
+![Executive Summary](images/Dashboard3.png)
 
 ---
 
