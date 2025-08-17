@@ -86,7 +86,7 @@ The project includes an **interactive 3-page Power BI dashboard** designed for b
 - Category-wise revenue & profit breakdown  
 - Payment method analysis  
 
-![Executive Summary](images/Dashboard3.png)
+![Executive Summary](Dashboard3.png)
 
 ---
 
